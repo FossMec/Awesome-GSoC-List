@@ -21,8 +21,7 @@ Organisation
 selected for GSoC 2019
 - [Choosing Right organisation](https://www.quora.com/How-do-I-choose-appropriate-organization-in-Google-Summer-of-Code) - 
 An amazing thread on quora on how to choose right organisation
-- [Analysing organisations](https://gsoc-data-analyzer.netlify.com/)- You can find out the statistics about the organization you wish to contribute to (how many projects undertaken each year, and much more).Thank you [Vaibhav Gupta](https://medium.com/@vaibhgupt199)for this resource
-https://medium.freecodecamp.org/the-google-summer-of-code-experience-e9329da27c66)- Experience of a freshmans experience cracking GSoC
+- [Analysing organisations](https://gsoc-data-analyzer.netlify.com/)- You can find out the statistics about the organization you wish to contribute to (how many projects undertaken each year, and much more).Thank you [Vaibhav Gupta](https://medium.com/@vaibhgupt199) for making this resource.
 
 *Previous GSoC organisations* 
 
@@ -31,7 +30,6 @@ https://medium.freecodecamp.org/the-google-summer-of-code-experience-e9329da27c6
 - [2016](https://summerofcode.withgoogle.com/archive/2016/organizations/)
 - [2015](https://www.google-melange.com/archive/gsoc/2015)
 - [2014](https://www.google-melange.com/archive/gsoc/2014)
-
 
 Amazing articles which talk about GSoC
 ---
@@ -44,16 +42,15 @@ amazing topic in quora containing about 100+ answers from previous GSoC students
 - [How difficult to get selected for GSoC](https://www.quora.com/How-difficult-is-it-to-get-selected-for-the-GSOC) - Another quora thread with lot of answer which gives you different perspectives
 - [Advantages of getting into GSoC](https://www.quora.com/What-are-the-advantages-of-getting-into-gsoc) - Quora thread
 - [A recipe for Google summer of Code success](https://medium.freecodecamp.org/a-recipe-for-google-summer-of-code-success-cb0ceb1ae895)
-- [What I experienced at Google Summer of Code](https://medium.freecodecamp.org/the-google-summer-of-code-experience-e9329da27c66)- Experience of a freshmans experience cracking GSoC
+- [What I experienced at Google Summer of Code](https://medium.freecodecamp.org/the-google-summer-of-code-experience-e9329da27c66)- Experience of a freshmans experience cracking GSoC.
 - [GSoC all that a student needs to know](https://code.likeagirl.io/google-summer-of-code-gsoc-whens-and-hows-for-students-4d8453a799bb)
-- Insiders Secret to Cracking GSoC [part1](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-
-code-part-1-92e55dca5c18) and [part2](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-code-
-part-2-4c36b0ef8a8d) - This covers how four students from FOSSMEC cracked GSoC and what all were things which helped them 
-being GSoC scholars
+- Insiders Secret to crack GSoC [part1](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-code-part-1-92e55dca5c18) & [part2](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-code-part-2-4c36b0ef8a8d)
+
 
 Proposals about GSoC
 ---
-
+- [Writing Kickass GSoC proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/) - An amazing guide on how to write GSoC proposals by [KDE](http://www.kde.org/) team.
+- [How to write GSoC proposals](https://jogendra.github.io/how-to-write-proposal-for-google-summer-of-code) - This is a guide by previous GSoC scholar to write GSoC proposals
 
 
 

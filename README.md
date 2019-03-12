@@ -2,7 +2,7 @@
 
 A curated list of resource for Google Summer of Code(GSoC).
 
-What is GSoC? 
+What is GSoC? :globe_with_meridians:
 ---
 *Talks about what is Open source,GSoC and what to expect from GSoC*
 - [About Google Summer of Code](https://google.github.io/gsocguides/student/index) - from Google Open source team
@@ -13,7 +13,17 @@ in GSoC, how it work and contains FAQ related to GSoC
 - [What to Expect from GSoC](https://www.saptaks.blog/2019/03/what-to-expect-from-gsoc.html) - This is an amazing article 
 from previous GSoC scholar [Saptak Sengupta](https://github.com/SaptakS) telling what you should gain from GSoC
 
-Organisation
+Important Information about GSoC 2019 :triangular_flag_on_post: 	jp
+---
+
+- [GSoC 2019 Timeline](https://developers.google.com/open-source/gsoc/timeline)
+- [GSoC Student Stipends](https://developers.google.com/open-source/gsoc/help/student-stipends)
+- [Frequently Asked Questions](https://developers.google.com/open-source/gsoc/faq)
+- [Previous GSoC stats](https://developers.google.com/open-source/gsoc/resources/stats)
+- Guides [Student](https://google.github.io/gsocguides/student/) [Mentors](https://google.github.io/gsocguides/mentor/)
+- [Official Videos](https://developers.google.com/open-source/gsoc/videos) - from Google Open Source
+
+Organisation :office:
 ---
 *You are working under Open source organisations in GSoC and google pays you for the work you do for this organisations*
 
@@ -31,7 +41,7 @@ An amazing thread on quora on how to choose right organisation
 - [2015](https://www.google-melange.com/archive/gsoc/2015)
 - [2014](https://www.google-melange.com/archive/gsoc/2014)
 
-Amazing articles which talk about GSoC
+Amazing articles which talk about GSoC :books:
 ---
 
 - [One Stop guide to Google Summer of Code](https://medium.com/coding-blocks/one-stop-guide-to-google-summer-of-code-a9e803beeda7)
@@ -63,7 +73,7 @@ Previous GSoC Projects
 - [2015](https://www.google-melange.com/archive/gsoc/2015)
 - [2014](https://www.google-melange.com/archive/gsoc/2014)
 
-GSoC Proposals of Previous Scholars
+GSoC Proposals of Previous Scholars :couple:
 ---
 
 *These are some of GSoC proposals of previous students*
@@ -74,7 +84,17 @@ GSoC Proposals of Previous Scholars
 ](https://github.com/saketkc/fos-proposals) - contains a range of proposals on various years
 - [GSoC students from SMVD](https://github.com/CodeClubSMVDU/gsoc-proposals)
 
+Video Resources about GSoC :computer:
+---
+
+*Amazing video resource about GSoC*
+
+- [How to prepare for GSoC](https://www.youtube.com/watch?v=RpdjewNuPzc) - An amazing video from Coding Blocks
+- [GSoC Master Class](https://www.youtube.com/watch?v=Qyfyq1ZAleA&t=4s) - Harkirat is a two time GSoCer who is out here to help all of you with his knowledge and
+[amazing resources](https://www.youtube.com/user/harkirat1)
+- [GSoC 2019 preparation Guide](https://www.youtube.com/watch?v=zT11Mhgqiek) - Check out this amazing video from Supragya 
+Raj who is also a GSoCer and has also made other amazing [videos related to GSoC](https://www.youtube.com/channel/UC9S1O55MD9kzL5wRDFL_o5A)
 
 
 ### Contributing
-Please contact page maintainer: Kurian Benoy [email](kurian.bkk@gmail.com)
+If you want to contribute Please contact page maintainer: Kurian Benoy [email](kurian.bkk@gmail.com)

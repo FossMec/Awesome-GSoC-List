@@ -47,10 +47,28 @@ amazing topic in quora containing about 100+ answers from previous GSoC students
 - Insiders Secret to crack GSoC [part1](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-code-part-1-92e55dca5c18) & [part2](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-code-part-2-4c36b0ef8a8d)
 
 
-Proposals about GSoC
+Writing GSoC Proposals 
 ---
 - [Writing Kickass GSoC proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/) - An amazing guide on how to write GSoC proposals by [KDE](http://www.kde.org/) team.
 - [How to write GSoC proposals](https://jogendra.github.io/how-to-write-proposal-for-google-summer-of-code) - This is a guide by previous GSoC scholar to write GSoC proposals
+
+Previous GSoC Projects
+---
+* You can find the previous GSoC projects which got selected in respective years*
+
+- [2018](https://summerofcode.withgoogle.com/archive/2018/projects/)
+- [2017](https://summerofcode.withgoogle.com/archive/2017/projects/)
+- [2016](https://summerofcode.withgoogle.com/archive/2016/projects/)
+- [2015](https://www.google-melange.com/archive/gsoc/2015)
+- [2014](https://www.google-melange.com/archive/gsoc/2014)
+
+GSoC Proposals of Previous Scholars
+---
+* These are some of GSoC proposals of previous students*
+- [GSoC proposals from IITR](https://blog.sdslabs.co/gsoc/) - A list of GSoC proposals selected students from IIT Roorkee can found here
+- [GSoC 2017 proposals](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals)
+- [fos [proposals](https://github.com/saketkc/fos-proposals) - contains a range of proposals on various years
+- [GSoC students from SMVD](https://github.com/CodeClubSMVDU/gsoc-proposals)
 
 
 

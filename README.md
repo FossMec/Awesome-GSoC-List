@@ -54,7 +54,8 @@ Writing GSoC Proposals
 
 Previous GSoC Projects
 ---
-* You can find the previous GSoC projects which got selected in respective years*
+
+*You can find the previous GSoC projects which got selected in respective years*
 
 - [2018](https://summerofcode.withgoogle.com/archive/2018/projects/)
 - [2017](https://summerofcode.withgoogle.com/archive/2017/projects/)
@@ -64,10 +65,13 @@ Previous GSoC Projects
 
 GSoC Proposals of Previous Scholars
 ---
-* These are some of GSoC proposals of previous students*
+
+*These are some of GSoC proposals of previous students*
+
 - [GSoC proposals from IITR](https://blog.sdslabs.co/gsoc/) - A list of GSoC proposals selected students from IIT Roorkee can found here
 - [GSoC 2017 proposals](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals)
-- [fos [proposals](https://github.com/saketkc/fos-proposals) - contains a range of proposals on various years
+- [fos 
+](https://github.com/saketkc/fos-proposals) - contains a range of proposals on various years
 - [GSoC students from SMVD](https://github.com/CodeClubSMVDU/gsoc-proposals)
 
 

@@ -73,4 +73,4 @@ GSoC Proposals of Previous Scholars
 
 
 ### Contributing
-Kindly go through [Contribution Guidelines](https://github.com/hkirat/awesome-chess/blob/master/CONTRIBUTING.md#contribution-guidelines) first.
+Please contact page maintainer: Kurian Benoy [email](kurian.bkk@gmail.com)

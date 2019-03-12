@@ -13,7 +13,7 @@ in GSoC, how it work and contains FAQ related to GSoC
 - [What to Expect from GSoC](https://www.saptaks.blog/2019/03/what-to-expect-from-gsoc.html) - This is an amazing article 
 from previous GSoC scholar [Saptak Sengupta](https://github.com/SaptakS) telling what you should gain from GSoC
 
-Important Information about GSoC 2019 :triangular_flag_on_post: 	jp
+Important Information about GSoC 2019 :triangular_flag_on_post: 	
 ---
 
 - [GSoC 2019 Timeline](https://developers.google.com/open-source/gsoc/timeline)

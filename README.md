@@ -12,6 +12,7 @@ in GSoC, how it work and contains FAQ related to GSoC
 - [Summer of Code video](https://www.youtube.com/watch?v=S6IP_6HG2QE) - A short video about GSoC from Google Developers
 - [What to Expect from GSoC](https://www.saptaks.blog/2019/03/what-to-expect-from-gsoc.html) - This is an amazing article 
 from previous GSoC scholar [Saptak Sengupta](https://github.com/SaptakS) telling what you should gain from GSoC
+- [How to get started with Opensource](https://words.yudocaa.in/how-to-get-started-with-open-source/) - Amazing resource on how to start contributing to Open Source by [Sayan Chaudary](https://twitter.com/yudocaa)
 
 Important Information about GSoC 2019 :triangular_flag_on_post: 	
 ---

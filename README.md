@@ -59,6 +59,7 @@ amazing topic in quora containing about 100+ answers from previous GSoC students
 
 Writing GSoC Proposals 
 ---
+- [Writing a Proposal](https://google.github.io/gsocguides/student/writing-a-proposal) - Official GSoC guide for writing GSoC proposals
 - [Writing Kickass GSoC proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/) - An amazing guide on how to write GSoC proposals by [KDE](http://www.kde.org/) team.
 - [How to write GSoC proposals](https://jogendra.github.io/how-to-write-proposal-for-google-summer-of-code) - This is a guide by previous GSoC scholar to write GSoC proposals
 

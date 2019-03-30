@@ -21,7 +21,7 @@ Important Information about GSoC 2019 :triangular_flag_on_post:
 - [GSoC Student Stipends](https://developers.google.com/open-source/gsoc/help/student-stipends)
 - [Frequently Asked Questions](https://developers.google.com/open-source/gsoc/faq)
 - [Previous GSoC stats](https://developers.google.com/open-source/gsoc/resources/stats)
-- Guides [Student](https://google.github.io/gsocguides/student/) [Mentors](https://google.github.io/gsocguides/mentor/)
+- Guides [Student](https://google.github.io/gsocguides/student/) | [Mentors](https://google.github.io/gsocguides/mentor/)
 - [Official Videos](https://developers.google.com/open-source/gsoc/videos) - from Google Open Source
 
 Organisation :office:

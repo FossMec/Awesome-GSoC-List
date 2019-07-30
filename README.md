@@ -57,6 +57,7 @@ amazing topic in quora containing about 100+ answers from previous GSoC students
 - [GSoC all that a student needs to know](https://code.likeagirl.io/google-summer-of-code-gsoc-whens-and-hows-for-students-4d8453a799bb)
 - Insiders Secret to crack GSoC [part1](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-code-part-1-92e55dca5c18) & [part2](https://medium.com/fossmec/insiders-secret-to-cracking-the-google-summer-of-code-part-2-4c36b0ef8a8d)
 
+> Must Read: [How to ask Smart questions?](http://catb.org/~esr/faqs/smart-questions.html)
 
 Writing GSoC Proposals 
 ---

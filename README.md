@@ -22,7 +22,6 @@ Important Information about GSoC 2019 :triangular_flag_on_post:
 - [Frequently Asked Questions](https://developers.google.com/open-source/gsoc/faq)
 - [Previous GSoC stats](https://developers.google.com/open-source/gsoc/resources/stats)
 - Guides [Student](https://google.github.io/gsocguides/student/) | [Mentors](https://google.github.io/gsocguides/mentor/)
-- [Blogs](https://talk.openmrs.org/t/gsoc-2018-student-blogs/17900) by GSoC Scholars 
 - [Official Videos](https://developers.google.com/open-source/gsoc/videos) - from Google Open Source
 
 Organisation :office:

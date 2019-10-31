@@ -86,6 +86,7 @@ GSoC Proposals of Previous Scholars :couple:
 - [fos 
 ](https://github.com/saketkc/fos-proposals) - contains a range of proposals on various years
 - [GSoC students from SMVD](https://github.com/CodeClubSMVDU/gsoc-proposals)
+- [Successful GSOC proposals](https://github.com/SciRuby/sciruby/wiki/Successful-GSOC-proposals)
 
 Video Resources about GSoC :computer:
 ---

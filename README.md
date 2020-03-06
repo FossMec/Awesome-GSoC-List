@@ -28,8 +28,8 @@ Organisation :office:
 ---
 *You are working under Open source organisations in GSoC and google pays you for the work you do for this organisations*
 
-- [Organisations Selected](https://summerofcode.withgoogle.com/organizations/) - The complete list of 207 organisations 
-selected for GSoC 2020
+- [Organisations Selected](https://summerofcode.withgoogle.com/organizations/) - The complete list of 200 organisations out of w
+selected for GSoC 2020, out of which 30 are new to the program
 - [Choosing Right organisation](https://www.quora.com/How-do-I-choose-appropriate-organization-in-Google-Summer-of-Code) - 
 An amazing thread on quora on how to choose right organisation
 - [Analysing organisations](https://gsoc-data-analyzer.netlify.com/)- You can find out the statistics about the organization you wish to contribute to (how many projects undertaken each year, and much more).Thank you [Vaibhav Gupta](https://medium.com/@vaibhgupt199) for making this resource.

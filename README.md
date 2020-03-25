@@ -81,6 +81,7 @@ GSoC Proposals of Previous Scholars :couple:
 
 *These are some of GSoC proposals of previous students*
 
+- GSoc proposal examples provided by Google OSS team - [Example1](https://google.github.io/gsocguides/student/proposal-example-1), [Example2](https://google.github.io/gsocguides/student/proposal-example-2)
 - [GSoC proposals from IITR](https://blog.sdslabs.co/gsoc/) - A list of GSoC proposals selected students from IIT Roorkee can found here
 - [GSoC 2017 proposals](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals)
 - [fos 

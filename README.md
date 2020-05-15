@@ -92,6 +92,7 @@ GSoC Proposals of Previous Scholars :couple:
 GSoc Experience of Previous Scholars :computer:
 ---
 
+- [Vaibhav Gupta](https://medium.com/@mritunjaysharma394/not-that-another-gsoc-journey-81b070a0bba9)
 - [Ashwin G on cracking GSoC on his first year](https://www.freecodecamp.org/news/the-google-summer-of-code-experience-e9329da27c66/amp/)
 - [Adarsh S on his GSoC coding Experience with CloudCV](https://medium.com/@guyandtheworld/fin-gsoc-2018-with-cloudcv-43a0854338ee)
 

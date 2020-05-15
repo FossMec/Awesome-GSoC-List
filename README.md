@@ -2,6 +2,8 @@
 
 A curated list of resource for Google Summer of Code(GSoC).
 
+![Google Summer of Code GSOC 2020](https://miro.medium.com/max/2400/1*4e68uHCQeEwZctHT0708KA.jpeg)
+
 What is GSoC? :globe_with_meridians:
 ---
 *Talks about what is Open source,GSoC and what to expect from GSoC*

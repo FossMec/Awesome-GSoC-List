@@ -112,7 +112,7 @@ Raj who is also a GSoCer and has also made other amazing [videos related to GSoC
 And Yea if you really want to crack the GSoC coding entrance [follow the advice](https://www.hellozee.dev/cracking_gsoc/) of my good friend @hellozee
 
 Before winding up. It's always good to note that GSoC is just an opportunity to prove your Software development skill. There are 
-other opportunities as well in Open source world. Check out Tapasweni Pathak list of [Open source internships](https://github.com/tapaswenipathak/Open-Source-Internships)
+other opportunities as well in Open source world. Check out Tapasweni Pathak list of [Open source internships](https://github.com/tapaswenipathak/Open-Source-Internships) and there are other opportunities like [Google season of Docs](https://developers.google.com/season-of-docs) which you can apply.
 
 ### Contributing
 If you want to contribute.Please contact page maintainer: Kurian Benoy [email](kurian.bkk@gmail.com) or open an issue
